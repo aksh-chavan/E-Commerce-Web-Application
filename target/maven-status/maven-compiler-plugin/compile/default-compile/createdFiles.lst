@@ -1,0 +1,12 @@
+com\akshay\dao\CategoryDao.class
+com\akshay\dao\UserDao.class
+com\akshay\servlets\ProductOperationServlet.class
+com\akshay\entities\Category.class
+com\akshay\servlets\LoginServlet.class
+com\akshay\servlets\LogoutServlet.class
+com\akshay\helper\FactoryProvider.class
+com\akshay\servlets\RegisterServlet.class
+com\akshay\entities\Product.class
+com\akshay\helper\descHelper.class
+com\akshay\dao\ProductDao.class
+com\akshay\entities\User.class
